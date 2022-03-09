@@ -14,3 +14,5 @@
 * Hata Yönetimi Exception Handling
 * Dosya İşlemleri File Operations
 * Kaynaklar (https://www.btkakademi.gov.tr/portal/) (https://medium.com/) (https://stackoverflow.com/) (https://www.geeksforgeeks.org/)
+
+
